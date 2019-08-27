@@ -1,1 +1,1 @@
-little game for practice Python OOP
+little game for practice Python
